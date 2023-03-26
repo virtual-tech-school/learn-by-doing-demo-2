@@ -1,0 +1,34 @@
+.form-input {
+    width: 100%;
+    padding: 5px 10px;
+    border-radius: 1rem;
+    border: 1px solid gray;
+}
+
+.submit-btn {
+    background-color: #7c9af2;
+    color: black;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 10rem;
+    width: 100%;
+}
+
+#chat-area {
+    max-height: calc(100vh - 50px);
+    min-height: calc(100vh - 50px);
+    background-color: #7c9af2;
+}
+
+#msg-area {
+    background-color: #7c9af2;
+    border-top: 1px solid black;
+}
+
+.send-msg {
+    background-color: #7c9af2;
+    width: 100%;
+    border: none;
+    color: black;
+    height: 100%;
+}
